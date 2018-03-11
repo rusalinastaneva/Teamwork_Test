@@ -1,4 +1,4 @@
-# Teamwork Exercises of Git and GitHub
+## Teamwork Exercises of Git and GitHub
 
 <a href="https://softuni.bg/trainings/resources/officedocument/29648/team-exercise-problem-descriptions-software-technologies-march-2018" rel="GitandGitHub-Teamwork">  ![SoftUni logo][logo] <a/>
 
@@ -41,6 +41,35 @@ to the 2nd character after the decimal point**.
 | `2`<br/>`7`     |`14.00`       |
 | `7`<br/>`8`     |`56.00`       |
 | `12.33`<br/>`5` |`61.65`       |
+
+### Problem 5.                 
+* Character Stats
+
+Write a program, which **displays information** about a video game character. You will receive their **name**, **current health**, **maximum health**, **current energy** and **maximum energy **on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
+
+#### Examples
+
+|    Input                                       |    Output                                                               |
+|------------------------------------------------|-------------------------------------------------------------------------|
+|    `Mayro`<br/>`5`<br/>`10`<br/>`9`<br/>`10    |    `Name: Mayro`<br/>`Health: ||||||.....|`<br/>`Energy: ||||||||||.|   |
+
+
+|    Input                                          |    Output                                                                 |
+|---------------------------------------------------|---------------------------------------------------------------------------|
+|    `Bauser`<br/>`10`<br/>`10`<br/>`10`<br/>`10    |    `Name: Bauser`<br/>`Health: ||||||||||||`<br/>`Energy: ||||||||||||    |
+
+
+|    Input                                       |    Output                                                                              |
+|------------------------------------------------|----------------------------------------------------------------------------------------|
+|    `Loogi`<br/>`8`<br/>`20`<br/>`2`<br/>`14    |    `Name: Loogi`<br/>`Health: |||||||||............|`<br/>`Energy: |||............|    |
+
+|    Input                                     |    Output                                                          |
+|----------------------------------------------|-------------------------------------------------------- -----------|
+|    `Toad`<br/>`0`<br/>`5`<br/>`0`<br/>`10    |    `Name: Toad`<br/>`Health: |.....|`<br/>`Energy: |..........|    |
+
+#### Hints
+        
+You can print a character **multiple** times, using new string(character, count).
 
 
  
