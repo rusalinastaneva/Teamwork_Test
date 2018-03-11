@@ -10,8 +10,7 @@
 # Teamwork_Test
 
 # Problem 1: Description
-### Problem 1.                 
-Debit Card Number
+### Problem 1.**Debit Card Number**
 
 Write a program, which receives **4****integers** on the
 console and **prints them** in **4-digit debit card format**. See the
@@ -27,8 +26,7 @@ examples below for the appropriate formatting.
 
 
 # Problem 2: Description
-### Problem 2.                 
-Rectangle Area
+### Problem 2.**Rectangle Area**
 
 Write a program, which calculates a **rectangle’s area**, based on its **width**
 and **height**. The **width** and **height** come as floating point numbers on the console, **formatted
@@ -42,8 +40,8 @@ to the 2nd character after the decimal point**.
 | `7`<br/>`8`     |`56.00`       |
 | `12.33`<br/>`5` |`61.65`       |
 
-### Problem 5.                 
-* Character Stats
+# Problem 5: Description
+### Problem 5.***Character Stats**
 
 Write a program, which **displays information** about a video game character. You will receive their **name**, **current health**, **maximum health**, **current energy** and **maximum energy **on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
 
@@ -51,21 +49,21 @@ Write a program, which **displays information** about a video game character. Yo
 
 |    Input                                       |    Output                                                               |
 |------------------------------------------------|-------------------------------------------------------------------------|
-|    `Mayro`<br/>`5`<br/>`10`<br/>`9`<br/>`10    |    `Name: Mayro`<br/>`Health: ||||||.....|`<br/>`Energy: ||||||||||.|   |
+|    `Mayro`<br/>`5`<br/>`10`<br/>`9`<br/>`10`   |    `Name: Mayro`<br/>`Health: ||||||.....|`<br/>`Energy: ||||||||||.|`  |
 
 
 |    Input                                          |    Output                                                                 |
 |---------------------------------------------------|---------------------------------------------------------------------------|
-|    `Bauser`<br/>`10`<br/>`10`<br/>`10`<br/>`10    |    `Name: Bauser`<br/>`Health: ||||||||||||`<br/>`Energy: ||||||||||||    |
+|    `Bauser`<br/>`10`<br/>`10`<br/>`10`<br/>`10`   |    `Name: Bauser`<br/>`Health: ||||||||||||`<br/>`Energy: ||||||||||||`   |
 
 
 |    Input                                       |    Output                                                                              |
 |------------------------------------------------|----------------------------------------------------------------------------------------|
-|    `Loogi`<br/>`8`<br/>`20`<br/>`2`<br/>`14    |    `Name: Loogi`<br/>`Health: |||||||||............|`<br/>`Energy: |||............|    |
+|    `Loogi`<br/>`8`<br/>`20`<br/>`2`<br/>`14`   |    `Name: Loogi`<br/>`Health: |||||||||............|`<br/>`Energy: |||............|`   |
 
 |    Input                                     |    Output                                                          |
 |----------------------------------------------|-------------------------------------------------------- -----------|
-|    `Toad`<br/>`0`<br/>`5`<br/>`0`<br/>`10    |    `Name: Toad`<br/>`Health: |.....|`<br/>`Energy: |..........|    |
+|    `Toad`<br/>`0`<br/>`5`<br/>`0`<br/>`10`   |    `Name: Toad`<br/>`Health: |.....|`<br/>`Energy: |..........|`   |
 
 #### Hints
         
