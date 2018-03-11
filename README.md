@@ -12,7 +12,7 @@
 # Problem 1: Description
 ### Problem 1.**Debit Card Number**
 
-Write a program, which receives **4****integers** on the
+Write a program, which receives **4 integers** on the
 console and **prints them** in **4-digit debit card format**. See the examples below for the appropriate formatting.
 
 #### **Examples**
@@ -40,30 +40,30 @@ Write a program, which calculates a **rectangle’s area**, based on its **width
 # Problem 5: Description
 ### Problem 5.**\*Character Stats**
 
-Write a program, which **displays information** about a video game character. You will receive their **name**, **current health**, **maximum health**, **current energy** and **maximum energy **on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
+Write a program, which **displays information** about a video game character. You will receive their **name**, **current health**, **maximum health**, **current energy** and **maximum energy** on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
 
 #### **Examples**
 
-|    Input                                       |    Output                                                                                   |
-|------------------------------------------------|---------------------------------------------------------------------------------------------|
-|    `Mayro`<br/>`5`<br/>`10`<br/>`9`<br/>`10`   |    `Name: Mayro`<br/>`Health:``\|\|\|\|\|\|.....\|`<br/>`Energy:``\|\|\|\|\|\|\|\|\|\|.\|`  |
+|    Input                                       |    Output                                                                                 |
+|------------------------------------------------|-------------------------------------------------------------------------------------------|
+|    `Mayro`<br/>`5`<br/>`10`<br/>`9`<br/>`10`   |    `Name: Mayro`<br/>`Health: \|\|\|\|\|\|.....\|`<br/>`Energy: \|\|\|\|\|\|\|\|\|\|.\|`  |
 
 
-|    Input                                          |    Output                                                                                           |
-|---------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|    `Bauser`<br/>`10`<br/>`10`<br/>`10`<br/>`10`   |    `Name: Bauser`<br/>`Health:``\|\|\|\|\|\|\|\|\|\|\|\|`<br/>`Energy:``\|\|\|\|\|\|\|\|\|\|\|\|`   |
-
-
-
-|    Input                                       |    Output                                                                                              |
-|------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-|    `Loogi`<br/>`8`<br/>`20`<br/>`2`<br/>`14`   |    `Name: Loogi`<br/>`Health:``\|\|\|\|\|\|\|\|\|............\|`<br/>`Energy:``\|\|\|............\|`   |
+|    Input                                          |    Output                                                                                         |
+|---------------------------------------------------|---------------------------------------------------------------------------------------------------|
+|    `Bauser`<br/>`10`<br/>`10`<br/>`10`<br/>`10`   |    `Name: Bauser`<br/>`Health: \|\|\|\|\|\|\|\|\|\|\|\|`<br/>`Energy: \|\|\|\|\|\|\|\|\|\|\|\|`   |
 
 
 
-|    Input                                     |    Output                                                                |
-|----------------------------------------------|--------------------------------------------------------------------------|
-|    `Toad`<br/>`0`<br/>`5`<br/>`0`<br/>`10`   |    `Name: Toad`<br/>`Health:``\|.....\|`<br/>`Energy:``\|..........\|`   |
+|    Input                                       |    Output                                                                                            |
+|------------------------------------------------|------------------------------------------------------------------------------------------------------|
+|    `Loogi`<br/>`8`<br/>`20`<br/>`2`<br/>`14`   |    `Name: Loogi`<br/>`Health: \|\|\|\|\|\|\|\|\|............\|`<br/>`Energy: \|\|\|............\|`   |
+
+
+
+|    Input                                     |    Output                                                              |
+|----------------------------------------------|------------------------------------------------------------------------|
+|    `Toad`<br/>`0`<br/>`5`<br/>`0`<br/>`10`   |    `Name: Toad`<br/>`Health: \|.....\|`<br/>`Energy: \|..........\|`   |
 
 #### Hints
         
