@@ -67,7 +67,7 @@ Write a program, which **displays information** about a video game character. Yo
 
 #### Hints
         
-You can print a character **multiple** times, using new string(character, count).
+* You can print a character **multiple** times, using new string(character, count).
 
 
  
