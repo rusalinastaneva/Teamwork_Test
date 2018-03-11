@@ -34,6 +34,6 @@ to the 2nd character after the decimal point**.
 |    Input        |    Output    |
 |-----------------|--------------|
 |    2            |    14.00     |
-|    7                           |
+     7                            
 |    7   8        |    56.00     |
 |    12.33   5    |    61.65     |
