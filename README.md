@@ -1,8 +1,8 @@
 # Teamwork Exercises of Git and GitHub
-<br/>
+
 <a href="https://softuni.bg/trainings/resources/officedocument/29648/team-exercise-problem-descriptions-software-technologies-march-2018" rel="GitandGitHub-Teamwork">  ![SoftUni logo][logo] <a/>
 
-[logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Click here"
+[logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Logo Title Text 2"
 
 
 <br/>
