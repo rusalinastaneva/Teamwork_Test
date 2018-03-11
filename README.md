@@ -1,5 +1,5 @@
 
-![alt text](https://www.google.bg/search?client=firefox-b-ab&dcr=0&biw=1138&bih=526&tbm=isch&sa=1&ei=6pGlWrKWFouH6ATN8ZLIDg&q=softuni+logo&oq=softuni+lo&gs_l=psy-ab.3.0.0j0i24k1.33991.35037.0.36285.3.3.0.0.0.0.126.335.0j3.3.0....0...1c.1.64.psy-ab..0.3.334...0i30k1.0.0HPe7PzjYnk#imgrc=Xj_3FREGHk2nYM: "Softuni Logo")
+![Softuni Logo](D:\Softuni\TechModule\SoftwareTechnologies\GitAndGitBash\Teamwork_Test\Teamwork_Test/softuni-1-820x400.jpg)
 
 
 # Teamwork_Test
