@@ -1,6 +1,10 @@
 
-![Softuni Logo](D:\Softuni\TechModule\SoftwareTechnologies\GitAndGitBash\Teamwork_Test\Teamwork_Test/softuni-1-820x400.jpg)
+<a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
 
+[logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Logo Title Text 2"
+
+<br/>
+<br/>
 
 # Teamwork_Test
 
