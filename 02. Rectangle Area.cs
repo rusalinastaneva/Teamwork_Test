@@ -10,10 +10,11 @@ namespace EXC_02.Rectangle_Area
 	{
 		static void Main(string[] args)
 		{
-
+           // Here we parse the variables to double
 			double width = double.Parse(Console.ReadLine());
 			double height = double.Parse(Console.ReadLine());
 
+		  // Here we print the rectangle area
 			Console.WriteLine($"{width * height:F2}");
 
 		}
